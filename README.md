@@ -1,5 +1,5 @@
 # Computer_architecture
-
+## Mirror and gray the image with GPU
 This is a the code using **GPU** with **C++**. It aims to mirror the image and turns it to the gray scale.
 cuda1 and cuda2 are two different block and thread settings. The details please refer to the **Report_309505001.pdf**.
 
