@@ -1,0 +1,2 @@
+{ "application": "cuda1.cu", "ISA": "Emulated", "device": "Ocelot PTX Emulator", "kernel": "_Z6mirrorP6uchar4S0_iib", "sequenceNumberInApplication": 0, "instructions": 58530, "kernelRuntime": 0.237448 }, 
+{ "application": "cuda2.cu", "ISA": "Emulated", "device": "Ocelot PTX Emulator", "kernel": "_Z6mirrorP6uchar4S0_iib", "sequenceNumberInApplication": 0, "instructions": 54588, "kernelRuntime": 0.202231 }, 
