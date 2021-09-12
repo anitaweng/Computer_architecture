@@ -25,5 +25,11 @@ cuda1 and cuda2 are two different block and thread settings. The details please 
 
 5. sh clean.sh (if you wish to clean the generate files)
 ```
+Example:
+
+![img](https://user-images.githubusercontent.com/42642215/132988602-19a3da2f-64c0-4882-a55f-5da3353cca06.jpg)
+
+![output2v](https://user-images.githubusercontent.com/42642215/132988616-bc3b5f76-ac68-4eb3-a76a-3ad277ced70c.jpg)
+
 
 Reference: https://github.com/ShivayaDevs/Photops
